@@ -10,25 +10,25 @@
   window.__DIGITAL_INVITA_APP_INITIALIZED__ = true;
 
     const INVITATION_CONFIG =
-{
+const INVITATION_CONFIG = {
   "meta": {
-    "pageTitle": "Prim. Justo Sierra",
+    "pageTitle": "Mi graduación | Prim. Lic. Benito Juarez",
     "ogTitle": "",
     "ogDescription": "Tenemos el honor de invitarle a la\nceremonia de Graduación"
   },
   "event": {
-    "label": "Mi graduación",
-    "celebrantName": "Prim. Justo Sierra",
-    "eventDate": "2026-07-13T07:30",
-    "eventEnd": "2026-07-13T13:00",
+    "label": "Escuela Primaria",
+    "celebrantName": "Lic. Benito Juarez",
+    "eventDate": "2026-07-14T08:30",
+    "eventEnd": "2026-07-14T13:00",
     "timeZone": "America/Mexico_City",
     "eventLocation": "Top Salón Obispado",
     "rsvpPhone": "871 221 47 4"
   },
   "theme": {
     "bgTop": "#081c3a",
-    "bgMid": "#1f4e79",
-    "bgBottom": "#6e8fb8",
+    "bgMid": "#27639b",
+    "bgBottom": "#081c3a",
     "gold500": "#f2c06f",
     "particleColor": "#fff4cf",
     "text": "#fffaf3",
@@ -68,7 +68,7 @@
   "ceremony": {
     "title": "Ceremonia",
     "time": "07:30 hrs",
-    "place": "Iglesia de Santo Domingo",
+    "place": "---",
     "mediaMode": "preview",
     "iconSrc": "cereminia.png",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215245354!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f66.04353500702416!4f10.648578501892814!5f0.7820865974627469",
@@ -77,40 +77,80 @@
   },
   "reception": {
     "title": "Ceremonia cívica ",
-    "time": "09:00 hrs ",
-    "place": "Escuela Primaria Federal Justo Sierra",
+    "time": "08:30 hrs ",
+    "place": "Escuela Primaria Licenciado Benito Juarez",
     "mediaMode": "preview",
     "iconSrc": "recepcion.png",
-    "mapLink": "https://maps.app.goo.gl/sNmobFSgyiobFDS57",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215391846!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f237.93126738436632!4f7.140937497379113!5f0.4000000000000002",
+    "mapLink": "https://maps.app.goo.gl/JikFdvBFF4saoyc5A",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783476650913!5m2!1ses-419!2smx!6m8!1m7!1sN4edfateJGw-KpAHlswU8Q!2m2!1d19.75922156069625!2d-98.96550410292195!3f22.320799435135278!4f23.452062232022996!5f0.4000000000000002",
     "photoSrc": ""
   },
   "timeline": {
     "items": [
       {
-        "time": "07:30 hrs",
-        "title": "Ceremonia",
-        "desc": "Iglesia de Santo Domingo"
-      },
-      {
-        "time": "09:00 hrs",
-        "title": "Ceremonia cívica ",
-        "desc": "Escuela Primaria Federal Justo Sierra"
+        "time": "",
+        "title": "Bienvenida por nuestra Autoridad Escolar",
+        "desc": "Inicio oficial de nuestra ceremonia de graduación."
       },
       {
         "time": "",
-        "title": "Vals",
-        "desc": "Un momento lleno de emoción para celebrar el esfuerzo, la amistad y el inicio de una nueva etapa."
+        "title": "Ceremonia Cívica y Cambio de Escolta",
+        "desc": "Honremos nuestros símbolos patrios y el relevo de escolta."
       },
       {
         "time": "",
-        "title": "Ultimo pase de lista ",
-        "desc": "Un momento especial para despedir esta etapa escolar."
+        "title": "Presentación del Presídium",
+        "desc": "Presentación de nuestras autoridades e invitados especiales."
       },
       {
         "time": "",
-        "title": "Entrega de documentos ",
-        "desc": "Entrega oficial de los documentos de fin de curso."
+        "title": "Entrada de la Generación | Nacidos para Vencer",
+        "desc": "Recibamos a la generación que hoy culmina esta gran etapa."
+      },
+      {
+        "time": "",
+        "title": "Bailable 4° A | El Gallito",
+        "desc": "Una alegre muestra de nuestras tradiciones mexicanas."
+      },
+      {
+        "time": "",
+        "title": "Entrega de Reconocimientos de 1° a 3° Año",
+        "desc": "Reconocimiento al esfuerzo y dedicación de nuestros alumnos."
+      },
+      {
+        "time": "",
+        "title": "Bailable 5° A | El Colás y La Bamba",
+        "desc": "Disfrutemos este colorido número folclórico."
+      },
+      {
+        "time": "",
+        "title": "Palabras de Despedida de 5° Año",
+        "desc": "Un emotivo mensaje para nuestra generación graduada."
+      },
+      {
+        "time": "",
+        "title": "Entrega de Reconocimientos de 4° a 6° Año",
+        "desc": "Reconocimiento a los logros de nuestros estudiantes."
+      },
+      {
+        "time": "",
+        "title": "Bailable  3° A | El Son de la Negra",
+        "desc": "Tradición, música y alegría en el escenario."
+      },
+      {
+        "time": "",
+        "title": "Último Pase de Lista – 6° A",
+        "desc": "Un momento inolvidable para nuestra generación."
+      },
+      {
+        "time": "",
+        "title": "Último Pase de Lista – 6° B",
+        "desc": "Despedimos con orgullo a nuestros graduados."
+      },
+      {
+        "time": "",
+        "title": "Despedida por nuestra Autoridad Escolar",
+        "desc": "Mensaje final para clausurar esta ceremonia."
       }
     ]
   },
@@ -161,7 +201,7 @@
     "story": true,
     "parents": false,
     "godparents": false,
-    "ceremony": true,
+    "ceremony": false,
     "reception": true,
     "timeline": true,
     "countdown": true,
@@ -192,7 +232,7 @@
     ]
   },
   "closing": {
-    "note": "\"Cada meta alcanzada es el inicio de un nuevo camino.\nHoy celebramos el esfuerzo, la dedicación y los sueños\nque comienzan a hacerse realidad.\""
+    "note": "Hoy cerramos un capítulo lleno de aprendizajes y amistades; mañana comenzamos a escribir nuevos sueños. ¡El futuro nos espera!"
   },
   "brand": {
     "creditText": "Creado por Digital Invita",
@@ -200,7 +240,7 @@
     "ctaLabel": "Contáctanos",
     "ctaHref": "https://wa.me/525550591264?text=Hola%21%20Quiero%20una%20invitaci%C3%B3n%20digital%20con%20estilo%20elegante%20y%20me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n."
   }
-}
+};
       
       ;
 
