@@ -22,8 +22,8 @@
     "eventDate": "2026-07-14T08:30",
     "eventEnd": "2026-07-14T13:00",
     "timeZone": "America/Mexico_City",
-    "eventLocation": "Top Salón Obispado",
-    "rsvpPhone": "871 221 47 4"
+    "eventLocation": "---",
+    "rsvpPhone": "111111"
   },
   "theme": {
     "bgTop": "#081c3a",
