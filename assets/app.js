@@ -10,7 +10,7 @@
   window.__DIGITAL_INVITA_APP_INITIALIZED__ = true;
 
     const INVITATION_CONFIG =
-const INVITATION_CONFIG = {
+{
   "meta": {
     "pageTitle": "Mi graduación | Prim. Lic. Benito Juarez",
     "ogTitle": "",
@@ -240,7 +240,7 @@ const INVITATION_CONFIG = {
     "ctaLabel": "Contáctanos",
     "ctaHref": "https://wa.me/525550591264?text=Hola%21%20Quiero%20una%20invitaci%C3%B3n%20digital%20con%20estilo%20elegante%20y%20me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n."
   }
-};
+}
       
       ;
 
