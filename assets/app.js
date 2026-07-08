@@ -12,13 +12,13 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Mi graduación | Prim. Lic. Benito Juarez",
+    "pageTitle": "Mi graduación | Prim. Lic. Benito Juárez",
     "ogTitle": "",
     "ogDescription": "Tenemos el honor de invitarle a la\nceremonia de Graduación"
   },
   "event": {
     "label": "Escuela Primaria",
-    "celebrantName": "Lic. Benito Juarez",
+    "celebrantName": "Lic. Benito Juárez",
     "eventDate": "2026-07-14T08:30",
     "eventEnd": "2026-07-14T13:00",
     "timeZone": "America/Mexico_City",
@@ -76,9 +76,9 @@
     "mapLink": "https://maps.app.goo.gl/aM8sywzDeYyj5qZt5"
   },
   "reception": {
-    "title": "Ceremonia cívica ",
+    "title": "Ceremonia Cívica ",
     "time": "08:30 hrs ",
-    "place": "Escuela Primaria Licenciado Benito Juarez",
+    "place": "Escuela Primaria Lic. Benito Juárez",
     "mediaMode": "preview",
     "iconSrc": "recepcion.png",
     "mapLink": "https://maps.app.goo.gl/JikFdvBFF4saoyc5A",
