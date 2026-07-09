@@ -87,11 +87,7 @@
   },
   "timeline": {
     "items": [
-      {
-        "time": "",
-        "title": "Bienvenida por nuestra Autoridad Escolar",
-        "desc": "Inicio oficial de nuestra ceremonia de graduación."
-      },
+
       {
         "time": "",
         "title": "Ceremonia Cívica y Cambio de Escolta",
@@ -101,6 +97,11 @@
         "time": "",
         "title": "Presentación del Presídium",
         "desc": "Presentación de nuestras autoridades e invitados especiales."
+      },
+            {
+        "time": "",
+        "title": "Bienvenida por nuestra Autoridad Escolar",
+        "desc": "Inicio oficial de nuestra ceremonia de graduación."
       },
       {
         "time": "",
@@ -147,11 +148,7 @@
         "title": "Último Pase de Lista – 6° B",
         "desc": "Despedimos con orgullo a nuestros graduados."
       },
-      {
-        "time": "",
-        "title": "Despedida por nuestra Autoridad Escolar",
-        "desc": "Mensaje final para clausurar esta ceremonia."
-      }
+
     ]
   },
   "countdown": {
